@@ -1,1 +1,3 @@
 # EfeitoChatGPT
+
+Texto com Efeito ChatGPT...
